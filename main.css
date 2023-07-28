@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#heading {
+    border: solid red 4px;
+}
+
+#nav {
+    border: solid green 3px;
+}
+
